@@ -33,7 +33,6 @@ A list of notebooks and articles related to large language models.
 | 🦎 LazyAxolotl | Fine-tune models in the cloud using Axolotl in one click. | <a href="https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 | ⚡ AutoQuant | Quantize LLMs in GGUF, GPTQ, EXL2, AWQ, and HQQ formats in one click. | <a href="https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 | 🌳 Model Family Tree | Visualize the family tree of merged models. | <a href="https://colab.research.google.com/drive/1s2eQlolcI1VGgDhqWIANfkfKvcKrMyNr?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
-| 🚀 ZeroSpace | Automatically create a Gradio chat interface using a free ZeroGPU. | <a href="https://colab.research.google.com/drive/1LcVUW5wsJTO2NGmozjji5CkC--646LgC"><img src="img/colab.svg" alt="Open In Colab"></a> |
 
 ### Fine-tuning
 
